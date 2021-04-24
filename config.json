@@ -3,9 +3,15 @@
   "site_title": "TableCheck Engineering",
   "site_description": "TableCheck's engineering website",
   "site_keywords": [
-    "engineering",
-    "tablecheck",
-    "japan"
+    {
+      "keyword": "engineering"
+    },
+    {
+      "keyword": "tablecheck"
+    },
+    {
+      "keyword": "japan"
+    }
   ],
   "posts_per_page": 5,
   "twitter_account": "@tablecheck",
