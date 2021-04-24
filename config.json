@@ -1,17 +1,11 @@
 {
   "base_url": "https://tc-engineering.netlify.app",
   "site_title": "TableCheck Engineering",
-  "site_description": "Next.js blog template for Netlify",
+  "site_description": "TableCheck's engineering website",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "engineering",
+    "tablecheck",
+    "japan"
   ],
   "posts_per_page": 5,
   "twitter_account": "@tablecheck",
